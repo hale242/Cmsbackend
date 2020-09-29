@@ -1,0 +1,11 @@
+$gray: #c0c0c0;
+$whitesmoke :whitesmoke;
+.footer{
+    width: 100%;
+    position: relative;
+    background: $gray;
+    p{
+        margin: 10px 0px 10px 0px;
+        color: $whitesmoke;
+    }
+}

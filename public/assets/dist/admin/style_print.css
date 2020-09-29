@@ -1,0 +1,7 @@
+@media print
+{    
+    #sidebar, .sidebar
+    {
+        display: none !important;
+    }
+}
